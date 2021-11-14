@@ -2,40 +2,4 @@
   padding: 0px;
   margin: 0px;
 }
-body {
-  background-color: antiquewhite;
-}
 
-.top-container {
-  height: 200px;
-  width: 200px;
-  background-color: #222831;
-  color: azure;
-  position: absolute;
-  top: 400px;
-  left: 400px;
-  
- 
-
-}
-
-.middle-container {
-  height: 200px;
-  width: 200px;
-  background-color: #393e46; 
-  position: absolute;
-  top: 200px;
-  left: 200px;
-  
-  
-  
-}
-
-.bottom-container {
-  height: 200px;
-  width: 200px;
-  background-color: #00adb5;
-  position: absolute;
-  
-  
-}
