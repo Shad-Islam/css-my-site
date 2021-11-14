@@ -1,5 +1,27 @@
+/* common css start  */
 * {
   padding: 0px;
   margin: 0px;
 }
 
+/* common css end  */
+
+
+body{
+  background-color: #E0EBE8;
+  text-align: center;
+}
+
+h1{
+  margin: 0 auto; 
+}
+
+.top-cloud{
+  margin-top: 40px;
+  margin-left: 470px;
+}
+
+
+.bottom-colud{
+  position: absolute;
+}
