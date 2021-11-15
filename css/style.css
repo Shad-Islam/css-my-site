@@ -12,13 +12,20 @@ body{
   text-align: center;
 }
 
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
 h1{
   margin: 0 auto; 
 }
 
 .top-cloud{
-  margin-top: 40px;
-  margin-left: 470px;
+ position: absolute;
+ right: 600px;
+ top: 30px;
+
 }
 
 
