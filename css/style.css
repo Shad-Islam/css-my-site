@@ -76,18 +76,10 @@ a{
   border-radius: 50%;
 }
 
-.skill-image-description{
-  clear: left;
-}
 
 .skill-image2{
   width: 25%;
   float: right;
-  margin-left: 30px;
-  
-  
+  margin-left: 30px; 
 }
 
-.skill-image2-description{
-  clear: right;
-}
