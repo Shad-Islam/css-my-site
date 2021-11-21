@@ -11,7 +11,7 @@ body{
   background-color: #E0EBE8;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-size: 200%;
+  font-size: 121%;
 }
 
 .top-container{
@@ -50,7 +50,7 @@ a{
 
 .top-cloud{
  position: absolute;
- right: 600px;
+ right: 300px;
  top: 30px;
 
 }
@@ -58,4 +58,36 @@ a{
 
 .bottom-colud{
   position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+.skill-image-description{
+  clear: left;
+}
+
+.skill-image2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  
+  
+}
+
+.skill-image2-description{
+  clear: right;
 }
