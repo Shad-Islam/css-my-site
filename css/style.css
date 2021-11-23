@@ -153,3 +153,21 @@ hr{
 }
 
 
+.bottom-container{
+  background-color: #66bfbf;
+  margin-top: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.bottom-container a{
+  margin: 0 20px 0 20px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;   
+}
+
+.bottom-container p{
+  color: #EAF6F6;
+  margin-top: 20px;
+
+}
